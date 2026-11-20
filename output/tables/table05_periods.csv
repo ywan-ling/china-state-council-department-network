@@ -1,0 +1,8 @@
+﻿Measure,1978-1988,1988-1998,1998-2008,2008-2018,2018至今
+Jointly Issued Regulations,2.0,23.0,89.0,83.0,61.0
+Network Size (Number of Nodes),5.0,29.0,48.0,51.0,39.0
+Number of Ties,4.0,69.0,243.0,412.0,228.0
+Network Density,0.4,0.17,0.2154,0.3231,0.3077
+Largest Connected Component (LCC),3.0,26.0,48.0,51.0,39.0
+Average Path Length (APL),1.0,2.4492,1.984,1.8094,1.8097
+Average Clustering Coefficient (ACC),1.0,0.6649,0.7127,0.6925,0.7099

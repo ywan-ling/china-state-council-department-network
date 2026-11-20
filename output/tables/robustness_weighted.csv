@@ -1,0 +1,6 @@
+﻿Period,Nodes,Edges,Repeat edges,Repeat share (%),Spearman degree,p degree,Spearman betweenness,p betweenness,Spearman closeness,p closeness,Overlap degree,Overlap betweenness,Overlap closeness
+1978-1988,3,3,0,0.0,,—,,—,,—,3/3,3/3,3/3
+1988-1998,26,67,9,13.4,0.941,<0.001,0.934,<0.001,0.944,<0.001,6/11,5/7,6/6
+1998-2008,48,243,106,43.6,0.94,<0.001,0.816,<0.001,0.847,<0.001,7/10,4/7,7/10
+2008-2018,51,412,121,29.4,0.939,<0.001,0.895,<0.001,0.897,<0.001,11/12,6/13,9/12
+2018至今,39,228,82,36.0,0.972,<0.001,0.877,<0.001,0.908,<0.001,6/9,5/8,6/9
